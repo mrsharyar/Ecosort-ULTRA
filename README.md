@@ -1,0 +1,1 @@
+It's my beginner project that I built with AI as a coworker that sorts wastes and helps you by telling where to sort your waste called "Ecosort Ultra". There may be some bugs but i'm just a kid and i just built it as a side project.
