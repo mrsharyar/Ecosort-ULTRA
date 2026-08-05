@@ -113,7 +113,7 @@ EcoSort Ultra represents a synergy between human domain expertise in sustainabil
 
 ## 📄 License
 
-This project is open-source. Feel free to use, modify, and distribute for educational and commercial purposes.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
