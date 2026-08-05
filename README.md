@@ -45,20 +45,18 @@ The project contains iteratively improved versions of the core script:
 - GPU with at least 15GB VRAM recommended (or Google Colab T4)
 - ~3GB free disk space
 
-### Quick Start (Google Colab)
-Run the following cells in a new Colab notebook:
+### 🚀 Quick Start (Google Colab - Free T4 GPU)
 
-```python
-# 1. Install dependencies
-!pip install -q gradio torch torchvision transformers pillow ultralytics opencv-python-headless
+The easiest way to run EcoSort Ultra is on **Google Colab** with a free T4 GPU:
 
-# 2. Clone the repository (or upload EcosortULTRAv4.py)
-!git clone https://github.com/YOUR_USERNAME/EcoSort-Ultra.git
-%cd EcoSort-Ultra
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/EcoSort-Ultra/blob/main/EcosortULTRAv4.py)
 
-# 3. Launch the app
-!python EcosortULTRAv4.py
-```
+**How to Run:**
+1. Click the **"Open In Colab"** button above.
+2. Go to **Runtime > Change runtime type > Hardware accelerator > GPU (T4)**.
+3. Run the first cell to install dependencies.
+4. Run the second cell to launch the interactive Gradio interface.
+5. Upload an image and let AI sort your waste!
 
 ### Local Installation
 ```bash
